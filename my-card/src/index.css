@@ -1,0 +1,28 @@
+.card-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+  background-color: white;
+  align-items: center; 
+} 
+
+.img-div{
+  align-items: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 16px;
+  padding: 5px;
+
+}
+body{
+  background-color: aquamarine;
+}
+
+.btn{
+  width: 100%;
+  font-size: 16px;
+  border-radius: 15px;
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  cursor: pointer;
+}
